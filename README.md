@@ -2,7 +2,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gleb-teperev-2f3/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Gleb Teperev" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gleb-teperev-2f3/" target="blank"><img align="center"     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## 📊 My GitHub Stats
