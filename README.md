@@ -52,8 +52,8 @@
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_netbeans/apache_netbeans-icon.svg" alt="NetBeans" width="40" height="40"/> 
-  </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1024px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="40" height="40"/> 
+</a> 
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/> 
   </a> 
