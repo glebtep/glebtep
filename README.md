@@ -54,6 +54,12 @@
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.png" alt="NetBeans" width="40" height="40"/> 
   </a> 
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/> 
+  </a> 
 </p>
 
 
