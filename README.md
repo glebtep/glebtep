@@ -60,6 +60,15 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/> 
   </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://chatbots.studio/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.chatbots.studio/wp-content/uploads/2020/05/Chatbots-Studio-Logo.svg" alt="ChatGPT" width="40" height="40"/> 
+  </a> 
 </p>
 
 
