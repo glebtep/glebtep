@@ -49,10 +49,10 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.png" alt="NetBeans" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/apache_netbeans/apache_netbeans-icon.svg" alt="NetBeans" width="40" height="40"/> 
   </a> 
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/> 
