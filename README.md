@@ -67,8 +67,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
   <a href="https://chatbots.studio/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chatbots.studio/images/logo.svg" alt="ChatGPT" width="40" height="40"/> 
-  </a> 
+    <img src="https://www.chatbots.studio/assets/images/cbs-logo.svg" alt="ChatGPT" width="40" height="40"/> 
+  </a>  
 </p>
 
 
