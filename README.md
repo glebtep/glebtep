@@ -61,14 +61,14 @@
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/> 
-  </a> 
+    <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask" width="40" height="40"/> 
+  </a>  
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
-  <a href="https://chatbots.studio/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/70530458?s=200&v=4" alt="ChatGPT" width="40" height="40"/> 
-  </a> 
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://blog.openai.com/content/images/2019/05/new-logo-1.png" alt="OpenAI (ChatGPT)" width="40" height="40"/> 
+  </a>  
 </p>
 
 
