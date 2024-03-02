@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://freelogopng.com/image/866" alt="OpenAI (ChatGPT)" width="40" height="40"/> 
+    <img src="https://www.vecteezy.com/png/22227364-openai-chatgpt-logo-icon" alt="OpenAI (ChatGPT)" width="40" height="40"/> 
   </a> 
 </p>
 
