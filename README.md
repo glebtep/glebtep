@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gleb-teperev-2f3/" target="blank"><img align="center"     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## 💻 Languages - Frameworks - Tools
+## Languages - Frameworks - Tools
 
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -69,7 +69,7 @@
 </p>
 
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 <br>
 <div align=center>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glebtep&show_icons=true&locale=en&layout=compact" alt="Gleb Teperev" />
